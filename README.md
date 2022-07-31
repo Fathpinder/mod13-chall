@@ -22,4 +22,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 See video for walkthrough on installation and usage.
 
-Video:
+Video: https://drive.google.com/file/d/1pUmCoyjhox6IArmJ6OyQCDxP20da4KlF/view
